@@ -2,6 +2,7 @@
 1. Everyone is welcome to contribute.
 1. Whole and sole purpose of this project is to learn by collaborating.
 1. Each solution that is submitted will be tested on the corresponding judge and will not be merged if not accepted.
+1. Some websites like GeeksforGeeks and LeetCode provide pre-written 'Driver Code' which handles all inputs and outputs while we only need to complete a given function. In that case, driver code is not mandatory to be added in the solution.
 1. Multiple solutions to a single problem are welcome as long as they use different approach.
 1. Correct folder heirarchy and naming convention to be followed:
 	1. In project directory there should be a directory[ies] by the name of corresponding judge. For ex. HackerRank, CodeChef, etc.
