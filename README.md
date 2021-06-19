@@ -16,7 +16,7 @@
 		<img alt = "GitHub contributors" src = "https://img.shields.io/github/contributors/Paresh-Wadhwani/Competitive_Programming?color=2b9348">
 	</a>
 	<a href = "https://github.com/Paresh-Wadhwani/Competitive_Programming/blob/master/LICENSE">
-		<img src = "https://img.shields.io/github/license/Paresh-Wadhwani/Competitive_Programming?color = 2b9348" alt="License Badge"/>
+		<img src = "https://img.shields.io/github/license/Paresh-Wadhwani/Competitive_Programming?color=2b9348" alt="License Badge"/>
 	</a>
 </div>
 
